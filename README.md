@@ -1,7 +1,7 @@
 ## albums
 
 ## Motivation 
-Hoping to learn the dynamics of React Native through Stephen Grider's Udemy course.
+Begin learning the dynamics of React Native through Stephen Grider's Udemy course.
 
 ## Project Screen Shot 
 
